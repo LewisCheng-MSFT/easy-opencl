@@ -1,0 +1,2 @@
+http://developer.amd.com/documentation/articles/pages/OpenCL-and-the-AMD-APP-SDK.aspx
+http://www.codeproject.com/KB/showcase/Portable-Parallelism.aspx
